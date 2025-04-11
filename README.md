@@ -40,4 +40,6 @@ Through this project, I gained hands-on experience in frontend development with 
 
 ## OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/a2be8e12-4fd2-4908-928a-7ec09971ddec)
+
 ![Image](https://github.com/user-attachments/assets/5e11a4a8-ee1f-467a-ac7e-0543ee7c3ac7)
