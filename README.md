@@ -37,3 +37,7 @@ Social networking platforms, enabling group or one-on-one chatting functionality
 Gaming applications, where live chat enhances player interaction.
 
 Through this project, I gained hands-on experience in frontend development with React, real-time data transmission using Socket.IO, and responsive UI design using CSS. This application showcases how modern tools and frameworks can be combined to build efficient, real-time web applications that are scalable and user-friendly.
+
+## OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5e11a4a8-ee1f-467a-ac7e-0543ee7c3ac7)
